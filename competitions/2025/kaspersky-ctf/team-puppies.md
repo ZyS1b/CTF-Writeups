@@ -29,9 +29,8 @@ layout:
 * **Vincent Javier Salvador** - _Information Technology Student_
 * **Emmanuel Mutas** - _Information Technology Student_
 * **Zybert Jio Sibolboro** - _Computer Engineering Student_
-* **Mark Christian Abucejo** - _Computer Engineering Student_
 * **Renier Dela Cruz** - _Computer Engineering Student_
-* **Lorens Aaron Mercado** - _Computer Engineering Student_
+* **Mark Christian Abucejo** - _Computer Engineering Student_
 * _(In Progress...)_
 
 **Description:**\
