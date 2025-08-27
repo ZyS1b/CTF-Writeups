@@ -1,6 +1,0 @@
----
-description: 'Difficulty: Hard'
----
-
-# Unsanctioned
-
