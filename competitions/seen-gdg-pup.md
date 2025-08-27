@@ -1,11 +1,12 @@
 ---
+description: August 16, 2025 12:00PM - August 17, 2025 12:00PM
 cover: ../.gitbook/assets/MOSHED-2025-8-27-5-49-3.gif
-coverY: -106.95104735639597
+coverY: -119.67108960344407
 layout:
   width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:
