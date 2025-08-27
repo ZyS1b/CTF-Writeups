@@ -1,6 +1,23 @@
 ---
 cover: ../.gitbook/assets/MOSHED-2025-8-27-13-36-33.gif
 coverY: 186.56838291997957
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
 ---
 
 # Root-Me

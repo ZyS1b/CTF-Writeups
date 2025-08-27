@@ -1,6 +1,23 @@
 ---
 cover: ../.gitbook/assets/MOSHED-2025-8-27-13-33-16.gif
 coverY: 4.489423668264564
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
 ---
 
 # PicoCTF
